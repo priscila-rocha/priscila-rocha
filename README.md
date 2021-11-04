@@ -2,7 +2,7 @@
 
   <div>
   <a href="https://github.com/priscila-rocha">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=priscila-rocha&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=false"/>
+  <img height="170em" text_color="pink" src="https://github-readme-stats.vercel.app/api?username=priscila-rocha&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=false"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscila-rocha&theme=synthwave&layout=compact&langs_count=7"/>
   </div>
 
