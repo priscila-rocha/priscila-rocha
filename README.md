@@ -2,8 +2,8 @@
 
   <div>
   <a href="https://github.com/priscila-rocha">
-  <img height="170em" width="500px" src="https://github-readme-stats.vercel.app/api?username=priscila-rocha&theme=synthwave&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="170em"  width="520px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscila-rocha&theme=synthwave&layout=compact&langs_count=7"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=priscila-rocha&theme=synthwave&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscila-rocha&theme=synthwave&layout=compact&langs_count=7"/>
   </div>
 
   <div style="display: inline_block"><br>
