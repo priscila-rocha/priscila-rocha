@@ -3,8 +3,9 @@
   <div>
   <a href="https://github.com/priscila-rocha">
   <img height="170em" icon_color="pink" src="https://github-readme-stats.vercel.app/api?username=priscila-rocha&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=false"/>
+    https://github-readme-stats.vercel.app/api/top-langs/?username=priscila-rocha)](https://github.com/anuraghazra/github-readme-stats
     </div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priscila-rocha)](https://github.com/anuraghazra/github-readme-stats)
+    
   
 
   <div style="display: inline_block"><br>
