@@ -4,7 +4,7 @@
   <a href="https://github.com/priscila-rocha">
   <img height="170em" icon_color="pink" src="https://github-readme-stats.vercel.app/api?username=priscila-rocha&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true"/>
     
-    <img height="170em" icon_color="pink" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscila-rocha"/>
+    <img height="170em" icon_color="pink" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscila-rocha&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true"/>
    
     </div>
     
