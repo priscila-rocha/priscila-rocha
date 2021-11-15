@@ -1,9 +1,10 @@
 ### Oii Eu sou a Priscila Rocha 😻
 
-  <div>
+ <div align="center">
   <a href="https://github.com/priscila-rocha">
-  <img height="170em" icon_color="pink" src="https://github-readme-stats.vercel.app/api?username=priscila-rocha&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true"/>
-   </div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=priscila-rocha&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscila-rocha&layout=compact&langs_count=7&theme=jolly "/>
+</div>
     
   
 
